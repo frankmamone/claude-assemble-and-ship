@@ -1,8 +1,6 @@
 # Build your first plugin
 
-This repo is your workspace for the **Unit 9, Lesson 3** task: package some of your own course work into a working Claude Code plugin, then test it locally. You'll build the plugin right here — there's nothing to install first.
-
-In the next lesson, this same repo becomes a marketplace others can install from, so keep your work here.
+This repo is your workspace for the **Unit 9, Lesson 3** task: package some of your own course work into a working Claude Code plugin, then test it locally.
 
 ## What to build
 
