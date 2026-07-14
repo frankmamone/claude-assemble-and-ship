@@ -1,0 +1,7 @@
+{
+  "name": "my-tools",
+  "owner": { "name": "Frank Mamone" },
+  "plugins": [
+              { "name": "release-tools", "source": "./", "description": "Commands and agents for cutting a release." }
+             ]
+}
